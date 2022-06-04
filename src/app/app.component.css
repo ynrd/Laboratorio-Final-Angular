@@ -1,0 +1,16 @@
+.contenedor{
+    margin-top: 5%;
+    margin-left: 5%;
+}
+
+.formulario{
+    width: 95%;
+    display: flex;
+    flex-direction: column;
+}
+
+.socio-card{
+    width: 95%;
+    display: flex;
+    flex-direction: column;
+}
